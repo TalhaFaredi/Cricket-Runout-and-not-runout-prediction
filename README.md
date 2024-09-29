@@ -1,4 +1,3 @@
-Here’s a `README.md` for your project on using a CNN for Run Out Prediction:
 
 ```markdown
 # CNN for Run Out Prediction
