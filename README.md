@@ -1,5 +1,3 @@
-
-
 # CNN for Run Out Prediction
 
 This project implements a Convolutional Neural Network (CNN) to predict whether a player is run out or not based on image input. The model is built using TensorFlow and Keras and trained on a dataset of labeled images. It uses data augmentation to improve generalization and is capable of predicting "out" or "not out" for unseen images.
